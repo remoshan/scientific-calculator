@@ -37,7 +37,7 @@ pip --version
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/<your-username>/scientific-calculator.git
+git clone https://github.com/remoshan/scientific-calculator.git
 cd scientific-calculator
 
 # 2. (Optional but recommended) Create & activate a virtual environment
