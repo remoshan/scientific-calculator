@@ -1,8 +1,7 @@
 ## scientific-calculator  
 **A modern Python scientific calculator with a clean CustomTkinter GUI**
 
-![Hero Screenshot Placeholder](docs/screenshot-hero.png)  
-*Replace this with a real screenshot of the running app.*
+![GUI](https://github.com/user-attachments/assets/99313351-a687-4c45-8b0b-4b89def2148c)
 
 ---
 
